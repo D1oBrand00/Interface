@@ -1,0 +1,6 @@
+D:\4\Interface\Primer5\Primer5\bin\Debug\Primer5.exe.config
+D:\4\Interface\Primer5\Primer5\bin\Debug\Primer5.exe
+D:\4\Interface\Primer5\Primer5\bin\Debug\Primer5.pdb
+D:\4\Interface\Primer5\Primer5\obj\Debug\Primer5.csproj.CoreCompileInputs.cache
+D:\4\Interface\Primer5\Primer5\obj\Debug\Primer5.exe
+D:\4\Interface\Primer5\Primer5\obj\Debug\Primer5.pdb

@@ -1,0 +1,7 @@
+D:\4\Interface\Primer1\Primer1\bin\Debug\Primer1.exe.config
+D:\4\Interface\Primer1\Primer1\bin\Debug\Primer1.exe
+D:\4\Interface\Primer1\Primer1\bin\Debug\Primer1.pdb
+D:\4\Interface\Primer1\Primer1\obj\Debug\Primer1.csproj.AssemblyReference.cache
+D:\4\Interface\Primer1\Primer1\obj\Debug\Primer1.csproj.CoreCompileInputs.cache
+D:\4\Interface\Primer1\Primer1\obj\Debug\Primer1.exe
+D:\4\Interface\Primer1\Primer1\obj\Debug\Primer1.pdb

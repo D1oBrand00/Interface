@@ -1,0 +1,6 @@
+D:\4\Interface\Primer3\Primer3\bin\Debug\Primer3.exe.config
+D:\4\Interface\Primer3\Primer3\bin\Debug\Primer3.exe
+D:\4\Interface\Primer3\Primer3\bin\Debug\Primer3.pdb
+D:\4\Interface\Primer3\Primer3\obj\Debug\Primer3.csproj.CoreCompileInputs.cache
+D:\4\Interface\Primer3\Primer3\obj\Debug\Primer3.exe
+D:\4\Interface\Primer3\Primer3\obj\Debug\Primer3.pdb

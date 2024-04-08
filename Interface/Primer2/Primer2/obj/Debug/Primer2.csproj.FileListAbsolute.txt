@@ -1,0 +1,6 @@
+D:\4\Interface\Primer2\Primer2\bin\Debug\Primer2.exe.config
+D:\4\Interface\Primer2\Primer2\bin\Debug\Primer2.exe
+D:\4\Interface\Primer2\Primer2\bin\Debug\Primer2.pdb
+D:\4\Interface\Primer2\Primer2\obj\Debug\Primer2.csproj.CoreCompileInputs.cache
+D:\4\Interface\Primer2\Primer2\obj\Debug\Primer2.exe
+D:\4\Interface\Primer2\Primer2\obj\Debug\Primer2.pdb

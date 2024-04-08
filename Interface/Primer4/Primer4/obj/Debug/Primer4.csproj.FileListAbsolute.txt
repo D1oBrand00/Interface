@@ -1,0 +1,6 @@
+D:\4\Interface\Primer4\Primer4\bin\Debug\Primer4.exe.config
+D:\4\Interface\Primer4\Primer4\bin\Debug\Primer4.exe
+D:\4\Interface\Primer4\Primer4\bin\Debug\Primer4.pdb
+D:\4\Interface\Primer4\Primer4\obj\Debug\Primer4.csproj.CoreCompileInputs.cache
+D:\4\Interface\Primer4\Primer4\obj\Debug\Primer4.exe
+D:\4\Interface\Primer4\Primer4\obj\Debug\Primer4.pdb
